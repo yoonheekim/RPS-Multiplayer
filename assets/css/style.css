@@ -1,0 +1,43 @@
+.player{
+    padding: 15px;
+    margin: 5px;
+}
+
+#chat {
+    height:150px;
+    background-color: white;
+    overflow-y: scroll;
+}
+header{
+    padding: 20px;
+    background-color: white;
+    border-bottom: 1px solid lightgrey;
+}
+body{
+    background-color: #fafafa;
+}
+#player_info{
+    padding: 10px;
+}
+.img{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+#player1_RPS, #player2_RPS{
+    height: 150px;
+
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+#player1, #player2, #result_div{
+    background-color: white;
+}
+.chat_div{
+    padding:0px;
+}
+
+#usermsg{
+    width: calc(100% - 70px); 
+}
